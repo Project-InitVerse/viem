@@ -96,6 +96,12 @@ export {
   getTransactionDetails,
 } from './actions/getTransactionDetails.js'
 export {
+  type RequestExecuteErrorType,
+  type RequestExecuteReturnType,
+  type RequestExecuteParameters,
+  requestExecute,
+} from './actions/requestExecute.js'
+export {
   type SendTransactionErrorType,
   type SendTransactionParameters,
   type SendTransactionReturnType,
@@ -129,6 +135,17 @@ export {
   type GetL1TokenAddressParameters,
   getL1TokenAddress,
 } from './actions/getL1TokenAddress.js'
+export {
+  type WithdrawErrorType,
+  type WithdrawParameters,
+  type WithdrawReturnType,
+  withdraw,
+} from './actions/withdraw.js'
+
+export {
+  legacyEthAddress,
+  l2BaseTokenAddress,
+} from './constants/address.js'
 
 export {
   /** @deprecated Use `zksync` instead */
@@ -164,6 +181,16 @@ export {
   publicActionsL2,
   type PublicActionsL2,
 } from './decorators/publicL2.js'
+
+export {
+  walletActionsL1,
+  type WalletActionsL1,
+} from './decorators/walletL1.js'
+
+export {
+  walletActionsL2,
+  type WalletActionsL2,
+} from './decorators/walletL2.js'
 
 export { serializeTransaction } from './serializers.js'
 
@@ -284,6 +311,10 @@ export type {
   ZksyncTransactionDetails,
 } from './types/transaction.js'
 
+export {
+  type GetL2HashFromPriorityOpErrorType,
+  getL2HashFromPriorityOp,
+} from './utils/bridge/getL2HashFromPriorityOp.js'
 export {
   type GetApprovalBasedPaymasterInputParameters,
   type GetApprovalBasedPaymasterInputReturnType,

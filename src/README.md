@@ -225,12 +225,6 @@ Check out the following places for more viem-related content:
     <img alt="reservoir logo" src="https://raw.githubusercontent.com/wevm/.github/main/content/sponsors/reservoir-light.svg" width="auto" height="50">
   </picture>
 </a>
-<a href="https://brave.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wevm/.github/main/content/sponsors/brave-dark.svg">
-    <img alt="brave logo" src="https://raw.githubusercontent.com/wevm/.github/main/content/sponsors/brave-light.svg" width="auto" height="50">
-  </picture>
-</a>
 <a href="https://linea.build">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wevm/.github/main/content/sponsors/linea-dark.svg">
@@ -255,12 +249,6 @@ Check out the following places for more viem-related content:
     <img alt="thirdweb logo" src="https://raw.githubusercontent.com/wevm/.github/main/content/sponsors/thirdweb-light.svg" width="auto" height="50">
   </picture>
 </a>
-<a href="https://uxuy.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wevm/.github/main/content/sponsors/uxuy-dark.svg">
-    <img alt="uxuy logo" src="https://raw.githubusercontent.com/wevm/.github/main/content/sponsors/uxuy-light.svg" width="auto" height="50">
-  </picture>
-</a>
 <a href="https://polymarket.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wevm/.github/main/content/sponsors/polymarket-dark.svg">
@@ -274,8 +262,6 @@ Check out the following places for more viem-related content:
   </picture>
 </a>
 
-
-
 ## Contributing
 
 If you're interested in contributing, please read the [contributing docs](/.github/CONTRIBUTING.md) **before submitting a pull request**.
@@ -288,3 +274,11 @@ If you're interested in contributing, please read the [contributing docs](/.gith
 ## License
 
 [MIT](/LICENSE) License
+
+
+<br />
+<br />
+
+<a href="https://vercel.com/?utm_source=wevm&utm_campaign=oss">
+  <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" height="35">
+</a>

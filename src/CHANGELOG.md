@@ -1,5 +1,29 @@
 # viem
 
+## 2.22.12
+
+### Patch Changes
+
+- [#3256](https://github.com/wevm/viem/pull/3256) [`5fb0e52bc076001bb6e8c9b8d2b2a18e8238309c`](https://github.com/wevm/viem/commit/5fb0e52bc076001bb6e8c9b8d2b2a18e8238309c) Thanks [@franciscotobar](https://github.com/franciscotobar)! - Added multicall3 to Rootstock Testnet chain
+
+- [#3255](https://github.com/wevm/viem/pull/3255) [`f36fcb9bb5a627c4ddc8b4312d2d685ca9edecce`](https://github.com/wevm/viem/commit/f36fcb9bb5a627c4ddc8b4312d2d685ca9edecce) Thanks [@neilydhan](https://github.com/neilydhan)! - Added Reddio Sepolia.
+
+- [#3250](https://github.com/wevm/viem/pull/3250) [`9ae2d59b055e5a51cd30e42c7e2bce378a2ce483`](https://github.com/wevm/viem/commit/9ae2d59b055e5a51cd30e42c7e2bce378a2ce483) Thanks [@jonathangus](https://github.com/jonathangus)! - Add Lens Testnet chains
+
+- [#3251](https://github.com/wevm/viem/pull/3251) [`7475fdbd33a7d6bb7083b54cf8e91d66df104e4c`](https://github.com/wevm/viem/commit/7475fdbd33a7d6bb7083b54cf8e91d66df104e4c) Thanks [@allan-wei-tx](https://github.com/allan-wei-tx)! - Added bitlayer mainnet & testnet `multicall3` address.
+
+- [#3254](https://github.com/wevm/viem/pull/3254) [`99812b9915cb06e98c1370f0d33448b36d5c7636`](https://github.com/wevm/viem/commit/99812b9915cb06e98c1370f0d33448b36d5c7636) Thanks [@fe-dudu](https://github.com/fe-dudu)! - Added creditcoin3 chain.
+
+- [#3258](https://github.com/wevm/viem/pull/3258) [`f32fc924cad24d4aace31f9d41f1a020e3cf11d9`](https://github.com/wevm/viem/commit/f32fc924cad24d4aace31f9d41f1a020e3cf11d9) Thanks [@will-af](https://github.com/will-af)! - Added `raw` property to `ContractFunctionRevertedError` for raw revert data.
+
+## 2.22.11
+
+### Patch Changes
+
+- [#3242](https://github.com/wevm/viem/pull/3242) [`2a2239e0b4efd8a62121ac87fcb17931cd403c16`](https://github.com/wevm/viem/commit/2a2239e0b4efd8a62121ac87fcb17931cd403c16) Thanks [@Duncan-Ultra](https://github.com/Duncan-Ultra)! - Added Ultra EVM Testnet chain
+
+- [#3246](https://github.com/wevm/viem/pull/3246) [`6a3e4073b018eb7b7f40aa420f89c1b376301227`](https://github.com/wevm/viem/commit/6a3e4073b018eb7b7f40aa420f89c1b376301227) Thanks [@aliberkhsl](https://github.com/aliberkhsl)! - Added Swellchain.
+
 ## 2.22.10
 
 ### Patch Changes
